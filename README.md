@@ -3,7 +3,7 @@
 <h3 align="center">A Computer Vision, Artificial Intelligence and Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=AeyshaAkterPurnia&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
 </p>
 
 ---
