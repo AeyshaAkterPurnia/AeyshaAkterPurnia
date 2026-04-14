@@ -15,7 +15,7 @@
 - ASP .NET, OpenCV, TensorFlow, PyTorch, numpy
 
 ### 👯 I am looking to collaborate on
-- AI / ML Projects
+- AI & ML Projects
 
 ### 📫 How to reach me
 - purniaislam7@gmail.com
