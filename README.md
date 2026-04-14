@@ -19,6 +19,7 @@
 
 ### 📫 How to reach me
 - purniaislam7@gmail.com
+- www.linkedin.com/in/aeyshaakterpurnia
 
 ### ⚡ Fun fact
 - I love solving problems with code!
